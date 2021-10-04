@@ -21,12 +21,15 @@ Remember,
 > all team members are **equally** responsible for **all** aspects of the project.
 
 ## Project Report
-Each team must submit a written report for their project and the report will be graded as a whole. 
-
-Negative points will be assigned to reports missing or having an incomplete content as follows.
+Each team must submit a project report (**word or pdf**) including three parts of content:
 - **Introduction document (within 10M):** Comprehensive description of the team work. The content shall include but not limited to the team composition and division of labor, the project scenarios, solved practical problems, adopted implementation solutions, etc. 
 - **Demonstration video (visit link):** Demonstrate the main use process of your demo within 3 minutes, upload it to Tencent Video (https://v.qq.com/cm/upload/index.html), Youtube (https://studio.youtube.com/), or else.
 - **Source code (visit link):** Github (github.com), Gitlab (gitlab.com), TGit (https://code.tencent.com/), or else.
+
+
+> The exact breakdown of individual contributions must be provided for every project deliverable, so that individual grades can be fairly assigned. 
+
+> Negative points will be assigned to reports missing or having an incomplete content.
 
 ## Project Grading Policy
 Given that this is a design project, it is impossible to define precise grading criteria. 
