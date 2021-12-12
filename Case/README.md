@@ -21,10 +21,10 @@ Remember,
 > all team members are **equally** responsible for **all** aspects of the project.
 
 ## Project Report
-Each team must submit a project report (**word or pdf**) including three parts of content:
-- **Introduction document (within 10M):** Comprehensive description of the team work. The content shall include but not limited to the team composition and division of labor, the project scenarios, solved practical problems, adopted implementation solutions, etc. 
-- **Demonstration video (visit link):** Demonstrate the main use process of your demo within 3 minutes, upload it to Tencent Video (https://v.qq.com/cm/upload/index.html), Youtube (https://studio.youtube.com/), or else.
-- **Source code (visit link):** Github (github.com), Gitlab (gitlab.com), TGit (https://code.tencent.com/), or else.
+Each team must submit a report (**word or pdf**) and product visit link:
+- **Final Report:** [格式要求](https://github.com/walkman617/SE2021/blob/main/Template/SE-FinalReport.doc).
+- **Product Visit Link:** Web URL, Mini-Program QR code, App Store Link, or else.
+
 
 
 > The exact breakdown of individual contributions must be provided for every project deliverable, so that individual grades can be fairly assigned. 
