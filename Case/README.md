@@ -21,10 +21,11 @@ Remember,
 > all team members are **equally** responsible for **all** aspects of the project.
 
 ## Final Report
-Each team must submit a report (**word or pdf**) including product visit link and test method:
+
+> Each team must submit a report (**word or pdf**) including product visit link and test method:
 - Final Report Template: [Download Here](https://github.com/walkman617/SE2021/blob/main/Template/SE-FinalReport.doc).
 - Product Visit Link: Web URL, Mini-Program QR code, App Store Link, or else.
-- Product Test Method: providing test accounts with featured roles to login the product.
+- Product Test Method: Providing test accounts with featured roles to login the product.
 
 
 > The exact breakdown of individual contributions must be provided for every project deliverable, so that individual grades can be fairly assigned. 
